@@ -1,8 +1,9 @@
 
-public class BubbleSort {
+public class Sort {
 
+	//static --> we can use static methods without creating an instance of class
 	
-	public void bubble(int arr[]) {
+	public static void bubbleSort(int arr[]) {
 		
 		int n=arr.length;
 		
@@ -25,7 +26,7 @@ public class BubbleSort {
 		
 	}
 	
-	public void printArray(int arr[]){
+	public static void printArray(int arr[]){
 		
 		int n=arr.length;
 		

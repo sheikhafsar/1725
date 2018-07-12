@@ -4,15 +4,15 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("BubbleSort Sorting");
+		System.out.println("BubbleSort Sorting Using static");
 		
 		int arr[]= {10,5,4,9,3};
 		
-		BubbleSort obj = new BubbleSort();
+	//	Sort obj = new Sort();
 		
-		obj.bubble(arr);
+		Sort.bubbleSort(arr);
 		
-		obj.printArray(arr);
+		Sort.printArray(arr);
 
 	}
 
