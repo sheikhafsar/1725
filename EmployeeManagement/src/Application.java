@@ -6,9 +6,13 @@ public class Application {
 		
 		Staff staff1= new TeachingStaff();
 		Staff staff2= new NonTeachingStaff();
+		ContractTeacher staff3= new ContractTeacher();
 		
 		staff1.calculateSalary();
 		staff2.calculateSalary();
+		staff3.calculateSalary();
+		staff3.makePayment();
+		staff3.calcWorkingHours();
 	}
 
 }
