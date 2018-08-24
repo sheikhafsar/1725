@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1534155253 source:c:\test\main.cpp
+	<iostream>
+	"Staff.h"
+	"NonTeachingStaff.h"
+	<string>
+
+1534155275 c:\test\include\staff.h
+	<string>
+	<iostream>
+
+1534155377 source:c:\test\src\staff.cpp
+	"Staff.h"
+
+1534153954 source:c:\test\src\nonteachingstaff.cpp
+	"NonTeachingStaff.h"
+
+1534154677 c:\test\include\nonteachingstaff.h
+	"Staff.h"
+	"Pay.h"
+
+1534154754 c:\test\include\pay.h
+
+1534154082 source:c:\test\src\pay.cpp
+	"Pay.h"
+

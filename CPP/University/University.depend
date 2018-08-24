@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1534153449 source:c:\users\admin\desktop\1725_oop\university\src\nonteachingstaff.cpp
+	"NonTeachingStaff.h"
+
+1534153449 c:\users\admin\desktop\1725_oop\university\include\nonteachingstaff.h
+
+1534158561 source:c:\users\admin\desktop\1725_oop\university\src\staff.cpp
+	<iostream>
+	"Staff.h"
+
+1534157224 c:\users\admin\desktop\1725_oop\university\include\staff.h
+	<string>
+
