@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1534762443 source:c:\users\ahmed\desktop\1730\oop_c++\shape\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<string>
+
+1534758366 c:\users\ahmed\desktop\1730\oop_c++\shape\include\shape.h
+
+1535625024 source:c:\users\student\desktop\1730\c++\shape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535620678 c:\users\student\desktop\1730\c++\shape\include\shape.h
+
+1535620752 c:\users\student\desktop\1730\c++\shape\include\two_d_shape.h
+	"Shape.h"
+
+1535621231 c:\users\student\desktop\1730\c++\shape\include\three_d_shape.h
+	"Shape.h"
+
+1535623109 c:\users\student\desktop\1730\c++\shape\include\triangle.h
+	<iostream>
+	<string>
+	"Two_D_shape.h"
+
+1535621650 c:\users\student\desktop\1730\c++\shape\include\cuboid.h
+	"Three_D_shape.h"
+
+1535620653 source:c:\users\student\desktop\1730\c++\shape\src\shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535620653 source:c:\users\student\desktop\1730\c++\shape\src\three_d_shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535620653 source:c:\users\student\desktop\1730\c++\shape\src\two_d_shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535622011 source:c:\users\student\desktop\1730\c++\shape\src\cuboid.cpp
+	<iostream>
+	"string"
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535624079 source:c:\users\student\desktop\1730\c++\shape\src\triangle.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535973416 source:c:\users\admin\desktop\1725_oop\cpp\shape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535627222 c:\users\admin\desktop\1725_oop\cpp\shape\include\shape.h
+
+1535627222 c:\users\admin\desktop\1725_oop\cpp\shape\include\two_d_shape.h
+	"Shape.h"
+
+1535627222 c:\users\admin\desktop\1725_oop\cpp\shape\include\three_d_shape.h
+	"Shape.h"
+
+1535973240 c:\users\admin\desktop\1725_oop\cpp\shape\include\triangle.h
+	<iostream>
+	<string>
+	"Two_D_shape.h"
+
+1535974931 c:\users\admin\desktop\1725_oop\cpp\shape\include\cuboid.h
+	"Three_D_shape.h"
+
+1535627222 source:c:\users\admin\desktop\1725_oop\cpp\shape\src\cuboid.cpp
+	<iostream>
+	"string"
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535627222 source:c:\users\admin\desktop\1725_oop\cpp\shape\src\shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535627222 source:c:\users\admin\desktop\1725_oop\cpp\shape\src\three_d_shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535973243 source:c:\users\admin\desktop\1725_oop\cpp\shape\src\triangle.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
+1535627222 source:c:\users\admin\desktop\1725_oop\cpp\shape\src\two_d_shape.cpp
+	<iostream>
+	"Shape.h"
+	"Two_D_shape.h"
+	"Three_D_shape.h"
+	"Triangle.h"
+	"Cuboid.h"
+
