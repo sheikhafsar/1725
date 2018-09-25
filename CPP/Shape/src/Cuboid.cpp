@@ -30,14 +30,14 @@ void Cuboid::volume_of_cuboid()
     cout<<"volume of cuboid="<<volume<<endl;
 }
 
-Cuboid Cuboid::operator=(Cuboid obj)
+void Cuboid::operator=(Cuboid obj)
 {
-    Cuboid temp;
-    temp.len=obj.len;
-    temp.base=obj.base;
-    temp.height=obj.height;
+    //Cuboid temp;
+    len=obj.len;
+    base=obj.base;
+    height=obj.height;
 
-    return temp;
+   // return temp;
 }
 
 Cuboid::~Cuboid()

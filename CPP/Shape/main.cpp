@@ -23,6 +23,8 @@ int main()
     //tri3.display_area();
 
     sum.display_area();
+
+
     Cuboid obj1(5,10,2);
     obj1.volume_of_cuboid();
     obj2=obj1;

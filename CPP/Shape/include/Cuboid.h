@@ -12,7 +12,7 @@ class Cuboid: public Three_D_shape
 
         Cuboid();
         Cuboid(int len,int base,int height);
-        Cuboid operator=(Cuboid obj);
+        void operator=(Cuboid obj);
         void volume_of_cuboid();
         virtual ~Cuboid();
 
