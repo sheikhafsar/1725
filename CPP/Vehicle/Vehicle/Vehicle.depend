@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537786935 source:c:\users\admin\desktop\1725_oop\1725_oop\cpp\vehicle\main.cpp
+	<iostream>
+	"Vehicle.h"
+	"TwoWheeler.h"
+
+1537789380 c:\users\admin\desktop\1725_oop\1725_oop\cpp\vehicle\include\vehicle.h
+	<String>
+
+1537789414 source:c:\users\admin\desktop\1725_oop\1725_oop\cpp\vehicle\src\vehicle.cpp
+	"Vehicle.h"
+	<iostream>
+
+1537787165 c:\users\admin\desktop\1725_oop\1725_oop\cpp\vehicle\include\twowheeler.h
+	<String>
+	"Vehicle.h"
+
+1537787013 source:c:\users\admin\desktop\1725_oop\1725_oop\cpp\vehicle\src\twowheeler.cpp
+	"TwoWheeler.h"
+	<iostream>
+
